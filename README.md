@@ -1,23 +1,20 @@
-<p align="center">
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quote=Building%20walls,%20breaking%20limits%20%E2%80%94%20in%20security%20and%20in%20life.&theme=blood-dark&animation=default&layout=default&font=default&bgColor=black&fontColor=silver&borderColor=lime)
-</p>
+<p align="center">Hi there! 👋 Welcome to my space.</p>
 
 <h1 align="center">⚡ Abhiram T | Cybersecurity Enthusiast ⚡</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22F700&center=true&vCenter=true&width=500&lines=Breaking+Systems+to+Secure+Them;API+%7C+Web+Pentester;Offensive+Security+Learner;Always+Learning+%E2%9C%85" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22F700&center=true&vCenter=true&width=500&lines=Breaking+Systems+to+Secure+Them;API+%7C+Web+Pentester;Offensive+Security+Learner;Always+Learning+%E2%9C%85" alt="Typing SVG" /> 
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🛡️ Web & API Pentester | Cybersecurity Intern @CERT-K, Trivandrum
-- 🕵️ Specializing in Incident Response, Infrastructure Audits, VAPT
+- 🚀 Strengthening my skills in **Web & API Pentesting** 
+- 🕵️ Learning advanced **Incident Response** techniques
 - 🔥 Passionate about CTFs, OSINT, and Real-world Vulnerability Research
 - ✍️ Blogger at [Medium](https://medium.com/@killuaX)
-- 📬 Email: **KilluaNyx@proton.me**
-
+- 📬 Email: [KilluaNyx@proton.me](mailto:KilluaNyx@proton.me)
 ---
 
 ## 🛠️ Skills and Expertise
@@ -67,5 +64,5 @@
 ---
 
 <p align="center">
-  <b><i>"Breaking systems, building trust."</i></b> 🚀
+  <b><i>"Building walls, breaking limits — in security and in life."</i></b> 
 </p>
