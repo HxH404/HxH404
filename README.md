@@ -16,9 +16,8 @@
 
 - 🔍 Focused on **Web & API Pentesting**
 - 🔥 Into **CTFs, Bug Bounty, OSINT, & Exploit Dev**
-- 🧠 Leveling up in **Threat Intelligence & Incident Response**
 - ✍️ Technical writing @ [Medium](https://medium.com/@killuaX)
-- 📧 Let's talk: [KilluaNyx@proton.me](mailto:KilluaNyx@proton.me)
+- 📧 Let's talk: [let's connect](mailto:KilluaNyx@proton.me)
 
 ---
 
