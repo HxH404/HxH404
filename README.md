@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3ZzgxcWRncWpqNDc5NDJmajY0NGdvNWx0a3A2M3FnMno1YXMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5vDVINBGUa1q/giphy.gif" width="260px" alt="Killua Intro" />
 </p>
 
-<h1 align="center">⚡ Abhiram T — Cybersecurity. Curiosity. Chaos. ⚡</h1>
+<h1 align="center">⚡ Cybersecurity. Curiosity. Chaos. ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Breaking+Systems+to+Secure+Them;Web+%2F+API+Pentester;Offensive+Security+Explorer;Always+Learning+%E2%9C%85" alt="Typing SVG" />
