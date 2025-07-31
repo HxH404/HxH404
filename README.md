@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3ZzgxcWRncWpqNDc5NDJmajY0NGdvNWx0a3A2M3FnMno1YXMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5vDVINBGUa1q/giphy.gif" width="260px" alt="Killua Intro" />
-</p>
-
 <h1 align="center">⚡ Cybersecurity. Curiosity. Chaos. ⚡</h1>
 
 <p align="center">
@@ -10,14 +6,28 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## <h2>whomai👽</h2>
 
-> I’m Abhiram, also known as `HxH404` — a cyber warrior diving deep into the realms of offensive security and digital defense. I believe in **breaking systems to rebuild them stronger**, and I love blending **real-world hacking skills** with **anime-fueled curiosity**.
+<table>
+  <tr>
+    <td>
+      <p>
+        I’m Abhiram, also known as <code>HxH404</code> — a cyber warrior diving deep into the realms of offensive security and digital defense.  
+        I believe in <strong>breaking systems to rebuild them stronger</strong>, and I love blending <strong>real-world hacking skills</strong> with <strong>anime-fueled curiosity</strong>.
+      </p>
+      <ul>
+        <li>🔍 Focused on <strong>Web & API Pentesting</strong></li>
+        <li>🔥 Into <strong>CTFs, Bug Bounty, OSINT, & Exploit Dev</strong></li>
+        <li>✍️ Technical writing @ <a href="https://medium.com/@killuaX">Medium</a></li>
+        <li>📧 Let's talk: <a href="mailto:KilluaNyx@proton.me">let's connect</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3ZzgxcWRncWpqNDc5NDJmajY0NGdvNWx0a3A2M3FnMno1YXMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5vDVINBGUa1q/giphy.gif" width="400px" alt="Killua Intro" />
+    </td>
+  </tr>
+</table>
 
-- 🔍 Focused on **Web & API Pentesting**
-- 🔥 Into **CTFs, Bug Bounty, OSINT, & Exploit Dev**
-- ✍️ Technical writing @ [Medium](https://medium.com/@killuaX)
-- 📧 Let's talk: [let's connect](mailto:KilluaNyx@proton.me)
 
 ---
 
