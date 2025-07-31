@@ -6,7 +6,7 @@
 
 ---
 
-## 👽 whomai
+## 👽 whoami
 
 <table>
   <tr>
@@ -48,17 +48,19 @@
 </p>
 
 
-## 🎵 Currently Vibing
+
+## 🎵 Music Makes Recon Faster
 
 <p align="center">
   <a href="https://open.spotify.com/track/5nTtCOCds6I0PHMNtqelas" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Logo" />
+    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
   </a>
 </p>
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nTtCOCds6I0PHMNtqelas?utm_source=generator" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN3eTk0MjdsaGw5d3lleGIydmp3OHkzaW92M21nbGozanN5ZmJvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBpV4bzdD0Nud3Gpkf/giphy.gif" width="400px" alt="Hacker Music Vibe" />
 </p>
+
 
 
 ## 🌐 Where to Find Me
