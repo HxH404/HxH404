@@ -6,13 +6,13 @@
 
 ---
 
-## <h2>whomai👽</h2>
+## 👽 whomai
 
 <table>
   <tr>
-    <td>
-      <p>
-        I’m Abhiram, also known as <code>HxH404</code> — a cyber warrior diving deep into the realms of offensive security and digital defense.  
+    <td width="60%">
+      <p align="justify">
+        I’m Abhiram, also known as <code>HxH404</code> — a cyber warrior diving deep into the realms of offensive security and digital defense.
         I believe in <strong>breaking systems to rebuild them stronger</strong>, and I love blending <strong>real-world hacking skills</strong> with <strong>anime-fueled curiosity</strong>.
       </p>
       <ul>
@@ -23,11 +23,10 @@
       </ul>
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3ZzgxcWRncWpqNDc5NDJmajY0NGdvNWx0a3A2M3FnMno1YXMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5vDVINBGUa1q/giphy.gif" width="400px" alt="Killua Intro" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3ZzgxcWRncWpqNDc5NDJmajY0NGdvNWx0a3A2M3FnMno1YXMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5vDVINBGUa1q/giphy.gif" width="390px" alt="Killua Intro" />
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -35,24 +34,32 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-F06C00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-007CBA?style=for-the-badge&logo=tenable&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-008080?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MobSF-FFA500?style=for-the-badge&logo=mobsf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-005571?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-007CBA?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aircrack_NG-FF5F00?style=for-the-badge&logo=aircrack-ng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats
+## 🎵 Currently Vibing
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HxH404&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=HxH404&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+  <a href="https://open.spotify.com/track/5nTtCOCds6I0PHMNtqelas" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Logo" />
+  </a>
 </p>
 
----
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nTtCOCds6I0PHMNtqelas?utm_source=generator" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe>
+</p>
+
 
 ## 🌐 Where to Find Me
 
@@ -68,15 +75,12 @@
   </a>
 </p>
 
----
-
 <h2 align="center">👁️‍🗨️ Profile Visits</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HxH404&label=Profile%20views&color=00FFAA&style=flat-square" alt="Profile views" />
 </p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/oJjxexthHrPbi/giphy.gif" width="260px" alt="Killua Outro" />
