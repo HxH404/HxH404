@@ -6,7 +6,9 @@
 
 ---
 
-## 👽 whoami
+## `$ whoami`
+
+
 
 <table>
   <tr>
@@ -30,7 +32,8 @@
 
 ---
 
-## 🛠️ Arsenal of Skills
+## `$ cat arsenal.txt`
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-F06C00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -48,8 +51,7 @@
 </p>
 
 
-
-## 🎵 Music Makes Recon Faster
+## `$ tail -f /dev/vibes`
 
 <p align="center">
   <a href="https://open.spotify.com/track/5nTtCOCds6I0PHMNtqelas" target="_blank">
@@ -62,8 +64,7 @@
 </p>
 
 
-
-## 🌐 Where to Find Me
+## `$ ifconfig eth0`
 
 <p align="center">
   <a href="https://linkedin.com/in/abhiramt21">
@@ -77,7 +78,7 @@
   </a>
 </p>
 
-<h2 align="center">👁️‍🗨️ Profile Visits</h2>
+<h2 align="center"><code>$ netstat -an | grep connections</code></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HxH404&label=Profile%20views&color=00FFAA&style=flat-square" alt="Profile views" />
