@@ -64,7 +64,7 @@
 </p>
 
 
-## `$ ifconfig eth0`
+## `catch up`
 
 <p align="center">
   <a href="https://linkedin.com/in/abhiramt21">
@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h2 align="center"><code>$ netstat -an | grep connections</code></h2>
+<h2 align="center"><code>slogan</code></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HxH404&label=Profile%20views&color=00FFAA&style=flat-square" alt="Profile views" />
